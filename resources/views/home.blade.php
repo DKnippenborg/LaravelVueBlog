@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<!-- replace containt with vue-router when lesson completed at laracasts -->
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
